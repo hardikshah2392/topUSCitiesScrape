@@ -1,6 +1,6 @@
 US top cities data
 
-This scrapper collects data for top cities in US from 'https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population'.
+This scrapper collects data for top cities in US from wikipedia.
 
 The number of cities can vary between 1 to 314 with default value 50. Type -n or --number followed by number of cities' data you want
 to collect. The output is a .csv file with 9 columns and 1 to 314 rows.
